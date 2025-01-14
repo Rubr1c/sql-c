@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+BraceWrapping:
+  AfterFunction: false
+  AfterStruct: false
+  AfterClass: false
+  AfterNamespace: false
